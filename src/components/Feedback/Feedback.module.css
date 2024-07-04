@@ -1,0 +1,13 @@
+.feedbackBox {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.feedbackBox p {
+  font-size: 16px;
+  font-weight: 700;
+}

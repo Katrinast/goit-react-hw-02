@@ -1,0 +1,18 @@
+.title {
+  font-size: 35px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.paragrah {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.wrapDescription {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
